@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/0017a0b0-0456-4389-94cd-f1097
 3. Run the app:
    `npm run dev`
 "# google-noi" 
+"# google-noi" 
